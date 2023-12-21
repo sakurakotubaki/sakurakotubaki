@@ -15,7 +15,6 @@ Hello! I'm JboyHashimoto, a versatile software engineer skilled in a variety of 
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="150" height="150">
 <img src="https://blog.junpeko.com/images/mysql.png" width="150" height="150">
 <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png" width="150" height="150">
-<img src="https://yt3.googleusercontent.com/Xtf_znS_ECrB4NJVRTNWJ2QcfH4Ta3Hz6Cg99EtDA03-03d5aOhyflWo0rgHgXYb1-6pSEn9=s900-c-k-c0x00ffffff-no-rj" width="150" height="150">
 <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" width="150" height="150">
 <img src="https://www.topgate.co.jp/wp-content/uploads/2017/02/gcp-1024x538.jpg" width="150" height="150">
 </p>
