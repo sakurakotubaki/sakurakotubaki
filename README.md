@@ -11,6 +11,8 @@ Hello! I'm JboyHashimoto, a versatile software engineer skilled in a variety of 
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" width="150" height="150">
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="150" height="150">
 <img src="https://www.dailyupblog.com/wp-content/uploads/node_logo.jpg" width="150" height="150">
+<img src="https://kinsta.com/wp-content/uploads/2023/06/deno-logo.png" width="150" height="150">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fintuji.com%2Fwhat-is-nestjs-and-what-is-it-used-for%2F&psig=AOvVaw0Z1cj_qp0RyaFCKuc2SC-q&ust=1713756338406000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKDF_4Wu0oUDFQAAAAAdAAAAABAK" width="150" height="150">
 <img src="https://cmc-japan.co.jp/wp-content/uploads/2023/02/MicrosoftTeams-image-1024x578.png" width="150" height="150">
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="150" height="150">
 <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png" width="150" height="150">
