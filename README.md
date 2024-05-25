@@ -7,15 +7,23 @@ Hello! I'm JboyHashimoto, a versatile software engineer skilled in a variety of 
 
 ## My Skills
 
-<img src="./assets/dart.png" />
-<img src="./assets/swift.png" />
-<img src="./assets/kotlin.png" />
-<img src="./assets/ts.png" />
-<img src="./assets/python.png" />
-<img src="./assets/deno.png" />
-<img src="./assets/postgre.png" />
-<img src="./assets/mysql.png" />
-<img src="./assets/aws.png" />
-<img src="./assets/gcp.png" />
-<img src="./assets/docker.png" />
-<img src="./assets/firebase.png" />
+<table>
+  <tr>
+    <td><img src="./assets/dart.png" /></td>
+    <td><img src="./assets/swift.png" /></td>
+    <td><img src="./assets/kotlin.png" /></td>
+    <td><img src="./assets/ts.png" /></td>
+  </tr>
+  <tr>
+    <td><img src="./assets/python.png" /></td>
+    <td><img src="./assets/deno.png" /></td>
+    <td><img src="./assets/postgre.png" /></td>
+    <td><img src="./assets/mysql.png" /></td>
+  </tr>
+  <tr>
+    <td><img src="./assets/aws.png" /></td>
+    <td><img src="./assets/gcp.png" /></td>
+    <td><img src="./assets/docker.png" /></td>
+    <td><img src="./assets/firebase.png" /></td>
+  </tr>
+</table>
