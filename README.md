@@ -15,6 +15,12 @@ Hello! I'm JboyHashimoto, a versatile software engineer skilled in a variety of 
     <td><img src="./assets/ts.png" /></td>
   </tr>
   <tr>
+    <td><img src="./assets/react.png" /></td>
+    <td><img src="./assets/next.png" /></td>
+    <td><img src="./assets/nest.png" /></td>
+    <td><img src="./assets/tailwindcss.png" /></td>
+  </tr>
+  <tr>
     <td><img src="./assets/python.png" /></td>
     <td><img src="./assets/deno.png" /></td>
     <td><img src="./assets/postgre.png" /></td>
