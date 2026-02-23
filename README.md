@@ -3,7 +3,7 @@
 Hello! I'm JboyHashimoto, a versatile software engineer skilled in a variety of technologies and platforms.
 
 <p>
-  <img src="https://github-profile-trophy.vercel.app/?username=sakurakotubaki&theme=tokyonight&column=7&no-frame=true" alt="GitHub Trophy" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakurakotubaki&theme=tokyo-night" alt="Activity Graph" />
 </p>
 
 ## My Skills
