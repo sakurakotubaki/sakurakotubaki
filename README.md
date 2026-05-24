@@ -1,4 +1,4 @@
-# Junichi Hashimoto
+# Wakuwakusan
 
 Hello! I'm JboyHashimoto, a versatile software engineer skilled in a variety of technologies and platforms.
 
